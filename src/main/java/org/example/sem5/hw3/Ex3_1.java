@@ -1,7 +1,6 @@
 package org.example.sem5.hw3;
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.TreeMap;
+
 
 public class Ex3_1 {
     /**
